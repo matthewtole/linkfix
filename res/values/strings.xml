@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fix">Fixing short link&#8230;</string>
+    <string name="fix_type">Fixing %1s link&#8230;</string>
+    <string name="app_name">LinkFix</string>
+    <string name="error_io">Could not open \"%1s\"</string>
+    <string name="error_url">"%1s" is not a valid URL</string>
+
+</resources>
